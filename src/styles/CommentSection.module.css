@@ -1,0 +1,41 @@
+.commentSection {
+    margin: 20px 0;
+}
+
+.commentSection ul {
+    padding: 0;
+}
+
+.commentSection li {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+}
+
+.commentSection form {
+    display: flex;
+    flex-direction: column;
+}
+
+.commentSection input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+}
+
+.commentSection button {
+    align-self: flex-start;
+    padding: 10px 20px;
+    background-color: #0070f3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.commentSection button:hover {
+    background-color: #005bb5;
+}

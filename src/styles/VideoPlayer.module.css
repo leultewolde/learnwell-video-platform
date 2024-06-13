@@ -1,0 +1,23 @@
+.videoPlayer {
+    margin: 20px 0;
+}
+
+.videoPlayer video {
+    width: 100%;
+    max-height: 500px;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+}
+
+.videoPlayer div {
+    margin-top: 10px;
+}
+
+.videoPlayer label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.videoPlayer input[type="range"] {
+    width: 100%;
+}

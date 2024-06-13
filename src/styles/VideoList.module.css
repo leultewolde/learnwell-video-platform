@@ -1,0 +1,28 @@
+.videoList {
+    margin: 20px 0;
+}
+
+.videoList ul {
+    padding: 0;
+}
+
+.videoList li {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.videoList li:hover {
+    background-color: #f1f1f1;
+}
+
+.videoList a {
+    color: #0070f3;
+    text-decoration: none;
+}
+
+.videoList a:hover {
+    text-decoration: underline;
+}

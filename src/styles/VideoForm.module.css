@@ -1,0 +1,34 @@
+.videoForm {
+    margin: 20px 0;
+}
+
+.videoForm form {
+    display: flex;
+    flex-direction: column;
+}
+
+.videoForm label {
+    margin: 10px 0 5px;
+}
+
+.videoForm input, .videoForm textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+}
+
+.videoForm button {
+    align-self: flex-start;
+    padding: 10px 20px;
+    background-color: #0070f3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.videoForm button:hover {
+    background-color: #005bb5;
+}
