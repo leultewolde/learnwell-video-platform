@@ -64,8 +64,5 @@ export const BACKEND_API = 'https://take-home-assessment-423502.uc.r.appspot.com
 - **Post Comment**: `POST /api/videos/{id}/comments`
 
 ### Screenshots
-![img.png](img.png)
+![img.png](screenshots/img.png)
 
-### Contact
-
-For any questions, please contact [your email].
